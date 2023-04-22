@@ -1,0 +1,29 @@
+body{
+    background-color: bisque;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32pt;
+    color: #634258;
+    }
+img {
+    width: 30%;
+    }
+.texto-encabezado {
+    font-family: Verdana, Geneva, Tahoma;
+    font-size: 12pt;
+    color: #634258;
+}
+#zona-encabezado {
+    width: 85%;
+    background-color: #60a0b0;
+    }
+#zona-imagenes {
+    width: 85%;
+    background-color: #60a0b0;
+    text-align: center;
+    }
+#zona-final {
+    width: 85%;
+    background: #9ad1aa;
+    }
